@@ -1,5 +1,14 @@
 {
   "name": "dat.gui",
+  "version": "0.5.1",
   "main": "build/dat.gui.js",
-  "version": "0.5.1"
+  "description": "bla bla bla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcaetano/dat.gui"
+  },
+  "author": "Andre Caetano",
+  "license": "MIT",
+  "dependencies": {
+  }
 }
